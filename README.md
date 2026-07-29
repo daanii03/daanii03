@@ -19,24 +19,10 @@ I'm a **Software Engineering** student passionate about software development, mo
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 [Web App / Digital Menu](https://github.com/daanii03)
-> *Interactive and responsive web application with dynamic filtering and local database integration.*
-* **Tech Stack:** `Astro`, `Tailwind CSS`, `SQL / better-sqlite3`
-
-### 📌 [C/C++ Data Structures](https://github.com/daanii03)
-> *Modular, ground-up implementations of data structures (singly linked lists) featuring manual memory management.*
-* **Tech Stack:** `C`, `C++`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daanii03&show_icons=true&theme=tokyonight&count_private=true" alt="daanii03's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daanii03&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
